@@ -13,4 +13,4 @@ This repository contains all of the source code used in the course called HTML, 
 # Outputs :
 
 * [Module-2](https://malakay98.github.io/HTML-CSS-JAVASCRIPT-FOR-WEB-DEVELOPERS/Assignments/module2/index.html)
-* [Module-3]
+* [Module-3](https://malakay98.github.io/HTML-CSS-JAVASCRIPT-FOR-WEB-DEVELOPERS/Assignments/module3/index.html)
